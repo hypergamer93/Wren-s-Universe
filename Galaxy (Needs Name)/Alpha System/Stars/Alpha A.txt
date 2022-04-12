@@ -2,4 +2,4 @@ Name: Alpha A
 Spectral Type: A (White)
 Temperature: 8,600 K
 Radius: 1.6 R
-- HYPERGAMER93#9986
+- Wren

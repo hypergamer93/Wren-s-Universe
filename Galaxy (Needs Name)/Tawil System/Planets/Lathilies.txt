@@ -2,4 +2,4 @@ Name: Lathilies
 Star System: Tawil System 
 Planet Type: Terrestrial/Gas Dwarf/Protoplanet
 Description: Planet that's been dealing with the effects of the wormhole since it's forming into a habitable zone. It's XYZ coordinates lay in place of another planet currently being folded to it by the wormhole. Originally a terrestrial planet, similar to Earth, it now morphs and tries to "share space" with a probable Gas Dwarf. The land and water mass, tectonic plates, and core constantly shift and change places with growing pains of one planet taking another's place in spacetime. Inhabitants of Lathilies build their structures vertically and thin on pieces of "perma land" that, thus far, have been proven to stay land during the shifts.
-- SpaceWalking#0168
+- SpaceWalking

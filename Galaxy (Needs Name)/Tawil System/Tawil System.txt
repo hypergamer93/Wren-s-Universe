@@ -3,4 +3,4 @@ Type of System: Trapezia
 Star/s: Tawil A/ Tawil B/ Tawil C
 Number of Planets: 4
 Number of Sentient Races: 1
-- SpaceWalking#0168
+- SpaceWalking

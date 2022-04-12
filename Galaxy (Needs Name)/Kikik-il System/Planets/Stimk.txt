@@ -2,4 +2,4 @@ Name: Stimk
 System: Kikik-il
 Planet type: Brown Dwarf
 Description: Stimk, the second and last planet from its star, is a brown dwarf which has absorbed most free mass in the Kikik-il system, or captured it in its orbit. The giant is so massive that it and it’s star almost orbit around each other, that is to say the barycenter does not lay within the star itself but rather between the two bodies. Many of its moons, of which their are 4 major and 2 minor, were protoplanets before going into orbit around the dwarf. One of the moons, Gilik, has liquid water, the correct conditions for it are given by the brown dwarfs heat. Gilik has vast seas, but no life. However, some stowaways have made it over from Filk, where the Gikik are making attempts at colonization.
-- Radar#8884
+- Radar

@@ -2,4 +2,4 @@ Name: Alpha B
 Spectral Type: G (yellow)
 Temperature: 5,800 K
 Radius: 1.12 R
-- HYPERGAMER93#9986
+- Wren

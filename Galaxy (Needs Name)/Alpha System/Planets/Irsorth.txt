@@ -4,4 +4,4 @@ Planet Type: Gas Giant
 Circumference: ~357,000 km
 Description: Also known as Thor, Irsorth is a planet covered by clouds of hydrogen and helium in different hues of red.  It has two white spots on its poles, cyclones approximately 30,000 km in diameter. 
 An interesting natural phenomenon ofter occurs in its upper atmosphere. Red serpentine shapes, known as "the Lurkers" rise out of the cloud layer, only to disappear within it moments later. Because of the intense radiation produced by the planet's core, life cannot exist in its proximity. The Lurkers phenomenon so far remains unexplained.
-- LordGazeta#9118
+- LordGazeta
