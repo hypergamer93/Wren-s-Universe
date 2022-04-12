@@ -1,0 +1,5 @@
+Name: Tawil C
+Spectral Type: G (Yellow)
+Temperature: 5,100 K
+Radius: 1.01 R
+- SpaceWalking#0168

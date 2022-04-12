@@ -1,0 +1,6 @@
+Name: Cheiria α
+Star system: Alpha System
+Planet Type: Terrestrial
+Circumference: ~35,000 km
+Description: Home planet of the Cateax race mostly inhabited by elite members of its society. 55% of it is covered by a single massive desert where the Cateax thrive due to its high temperatures. The rest of it is covered by mountains and lush forests, which the Cateax use to harvest resources.
+- IAmFlying#9272

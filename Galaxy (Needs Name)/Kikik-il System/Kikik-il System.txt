@@ -1,0 +1,6 @@
+Name: Kikik-il System
+Type: of system Mono-star
+Star: Kikik-ilt
+Number of planets: 2
+Number of sentient races: 1
+- Radar#8884

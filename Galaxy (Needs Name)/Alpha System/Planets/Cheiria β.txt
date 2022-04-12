@@ -1,0 +1,6 @@
+Name: Cheiria β
+Star system: Alpha system
+Planet Type: Terrestrial
+Circumference: ~50,000 km
+Description: A largely terraformed planet inhabited by the majority of the Cateax race. Approximately half of its land has been urbanised while the other half is reserved for resource harvesting.
+- IAmFlying#9272

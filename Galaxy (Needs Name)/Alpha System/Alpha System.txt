@@ -1,0 +1,6 @@
+Name: Alpha System
+Type of system: Binary
+Star/s: Alpha A / Alpha B
+Number of planets: 7
+Number of sentient races: 2
+- HYPERGAMER93#9986

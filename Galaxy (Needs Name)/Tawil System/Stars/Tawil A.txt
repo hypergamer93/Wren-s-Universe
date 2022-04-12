@@ -1,0 +1,5 @@
+Name: Tawil A
+Spectral Type: F (Yellow White)
+Temperature: 6,700 K
+Radius: 1.21 R
+- SpaceWalking#0168

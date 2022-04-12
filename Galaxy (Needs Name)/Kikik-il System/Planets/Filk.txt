@@ -1,0 +1,5 @@
+Name: Filk
+Star system: Kikik-il
+Planet type: Terrestrial
+Description: Filk is an ancient terrestrial planet, and is the first planet from its star. In its early stages, it was a planet covered in oceans, but was lifeless. Now, at 8 billion years old, changing conditions have made Filk almost inhospitable. It’s core is dead, tectonic plates kept moving through tidal forces, which creates and sustains a massive mountain range in the center of the planet. Although the rest of the planet is too uniform to precipitate, the windward side of this mountain have the right conditions for clouds and rain to fall, creating the planets only lakes and seas. This is where life evolves. Inhabiting this planet is intelligent life, the Gikik, who are a hive mind, arthropod-like species.
+- Radar#8884

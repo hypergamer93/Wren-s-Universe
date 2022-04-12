@@ -1,0 +1,5 @@
+Name: Tawil B
+Spectral Type: M (Red Orange)
+Temperature: 2,800 K
+Radius: 0.5 R
+- SpaceWalking#0168
