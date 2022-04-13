@@ -1,0 +1,6 @@
+Name: Hgthel
+Type of System: Symbiotic Binary
+Star/s: Hgaza/Oorth
+Number of Planets: 1
+Number of Sentient races: 1
+- LordGazeta

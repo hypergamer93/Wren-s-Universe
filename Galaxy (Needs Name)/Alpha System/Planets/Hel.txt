@@ -1,0 +1,5 @@
+Name: Hel
+Star system: Alpha System
+Planet Type: Terrestrial Exoplanet
+Description: Hel, is the largest terrestrial planet in the Alpha System. It's uninhabitable to the average carbon based life form, as surface temperatures reach a maximum of 450°C, and a minimum of 300°C. The only moisture that you'll find on this planet is the small amounts of precipitation in the atmosphere, and the occasional small pocket of near boiling water in the scattered caves. The only life that can be found on this planet have adapted to the harsh conditions of the surface. They require very little water, and can go days without food. (1 day on this planet is equal to 6 days on earth). You may find the occasional flora on the surface, also adapted to the harsh conditions, and some fauna who reside in the slightly cooler subsurface
+- Wren

@@ -1,0 +1,9 @@
+Name: Cheuru
+Star system: Alpha System 
+Planet Type: Eyeball Planet
+Circumference: ~32,000 km
+Description: The planet is tidally locked with the star. 40% of its surface is covered by water, most of which  makes up the glaciers on the dark side of the globe. Breathing requires special air compression apparatus, but life is possible without a  spacesuit. Only about 5% of the surface is habitable and only thanks to Cateaxian terraforming techniques. The Cateax planned to transform the world nto Cheiria γ, unfortunately, the project has been abandoned.
+When Earth appeared in the system it found itself on an orbit, which has a 20% chance of intersecting with Cheuru's orbit within the next 30 years. 
+The Cateax call this planet Cheuru - the lost heat. 
+Humans called it Loki - the planet of a trickster god.
+- LordGazeta

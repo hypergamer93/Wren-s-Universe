@@ -3,10 +3,3 @@ Star system: Alpha System
 Planet Type: Terrestrial
 Description: Home planet to the Human race. 75% of Earth's surface is covered in ocean. The other 25%, is a barren wasteland, littered ruins of a once mighty civilisation. The destruction of Earth's surface was due to the unknown effects of the wormhole that transported it into the Alpha System
 - Wren
-
----Lore---
-Earth, previously part of the Solar system in what humans believed was the only universe, traveled through a wormhole, and ended up in what they now call Alpha System, in an entirely new universe. Upon hearing about the wormhole in the path of Earth, a few of the native population, Humans, began to retreat underground. When Earth passed through the wormhole, the whole population who remained on the surface burnt up, like all of the fauna and flora. Now, many groups of at most 10 million population are scattered below the planet's surface
-- Wren
-
-The Moon, as well as most of Earth's artificial satelites, including multiple manned space stations and GPS satelites, didn't pass through the wormhole, or otherwise were flung in the direction of the surface by gravitational disturbances. Currently the planet has under a hundred operational satelites in orbit. This number however is getting lower every month thanks to the Kessler effect, which unfortunately is in full swing.
-- LordGazeta

@@ -1,0 +1,5 @@
+Name: Hgaza
+Spectral Type: M (Red)
+Temperature: 5000 K
+Radius: 42 R
+- LordGazeta
