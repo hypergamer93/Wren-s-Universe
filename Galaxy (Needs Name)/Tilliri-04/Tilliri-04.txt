@@ -1,0 +1,7 @@
+Name: Tilliri-04
+Type of System: Mono-star
+Star/s: Icriuq
+Number of planets: 14
+Number of Sentient races: 1
+Description: Lies on the Southern edge of the Great Lurzon Empire. A bustling economic hub for trade between the Lurzon Empire and its allies to the South, 13 of its 14 planets have been completely terraformed and urbanised. Also located near the Alpha System and is sometimes visited by wealthy Cateax.
+- IAmFlying

@@ -1,0 +1,5 @@
+Name: Icriuq
+Spectral Type: F (Yellow)
+Temperature: 6,000 K
+Radius: 1.2 R
+- IAmFlying

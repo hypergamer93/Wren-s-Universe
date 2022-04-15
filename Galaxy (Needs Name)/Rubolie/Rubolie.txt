@@ -1,0 +1,7 @@
+Name: Rubolie
+Type of system: Mono-star
+Star /s: Orbos
+Number of planets:  4
+Number of sentient races: 1
+Description: The Rubolie system is comprised of 2 stars, but they orbit at such a distance that it functionally is a one star system. The 3rd planet in this system, Ruig, hosts an intelligent life form, the Groaloga.
+- Radar

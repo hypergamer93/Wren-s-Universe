@@ -1,0 +1,6 @@
+Name: Tark'tal
+Star system: Tawil
+Planet Type: Terrestrial
+Radius: 18,682 km
+Description: This planet has very little atmosphere, which means that surface life is impossible here. The surface is covered in a copper dust, and  therefore makes the planet appear to be green. Tark'tal is slowly drifting towards its 3 stars, and will collide within the next 1000 Standard years. This planet is also rich with the rare material, Cuprenum.
+- Wren
