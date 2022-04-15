@@ -1,0 +1,5 @@
+Name: Irven
+Spectral type: D (white) 
+Temperature: 600,000 K
+Radius: 1,4 x 10^-5 R
+- LordGazeta

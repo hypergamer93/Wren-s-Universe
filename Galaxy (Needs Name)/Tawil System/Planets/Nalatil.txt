@@ -1,0 +1,6 @@
+Name: Nalatil
+Star system: Tawil
+Planet type: Dwarf Planet
+Radius: 1600 km
+Description: It has no atmosphere and its surface temperatures approach absolute zero. The planet almost in its entirety consists of water, making up an astimated 90% of its mass. Most of it is thought to be frozen, although scans and drillings have shown conclusive evidence of freezing only down to about 150 km into the planet's shell. It very well could have a liquid inner ocean. Composition of its core is largely unknown, but it is expected to be made mostly out of iron.
+- LordGazeta

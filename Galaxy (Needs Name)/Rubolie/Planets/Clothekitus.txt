@@ -1,0 +1,6 @@
+Name: Clothekitus
+Star system: Rubolie
+Planet type: Silicate, toxic
+Radius 4310 km
+Description: Clothekitus is a medium sized rocky planet with a comparatively thick atmosphere. It’s toxic, carbon based atmosphere keeps the conditions of this planet too hot for life, however, there is a zone which has OK conditions for habitation in the atmosphere. However, there is no life on this planet. It has a very powerful magnetic field, and has active tectonics. The planet is the first from its star.
+- Radar

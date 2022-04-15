@@ -1,0 +1,6 @@
+Name: Singit
+Star system: Rubolie
+Planet type: Iron, terrestrial
+Radius: 3219 km
+Description: Singit, the second planet from Orbos, is an extremely dense planet which is mostly comprised of iron and nickel. On its surface, temperatures for liquid water to exist are present, but any water on the planet has long been evicted by solar winds. The planet is inhabited by the Groaloga, who have colonized and partially terraformed the planet. Now, isolated lakes and sulfur producing organisms dot the crust of Singit, protected by a synthetic magnetic field produced by many magnetized satellites orbiting the planet.
+- Radar

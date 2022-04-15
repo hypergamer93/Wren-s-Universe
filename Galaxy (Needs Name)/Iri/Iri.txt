@@ -1,0 +1,7 @@
+Name: Iri
+Type of system: Mono-star
+Star/s: Irven
+Number of planets: 13
+Number of sentient races: 2
+Description: Both races that evolved in the system are relatively young. They started developing higher thinking roughly at the same time, when a Gas giant rogue planet entered the system, about 60, 000 universal years ago, forming a stable orbit close to the star and countering much of Irven's radiation with its strong magnetic field. Some planets changed trajectories, but miraculously, the entire system appears to be stable.
+- LordGazeta

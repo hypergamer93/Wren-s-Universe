@@ -1,0 +1,6 @@
+Name: Izzy
+Star system: Iri
+Planet type: Gas Giant/Brown Dwarf
+Radius: 77,000 km
+Description: The outer portions of its cloud layer maintain a warm temperature of about 300 kelvin. The planet is striped in white and dominating magenta, it has an extensive system of rings and one small icy moon called Imie, about 2800 km in diameter. It has a spectacularly strong magnetic field, which covers almost half of all planets in the system, shielding them from radiation of the Irven neutron star for  most of the year. 
+- LordGazeta

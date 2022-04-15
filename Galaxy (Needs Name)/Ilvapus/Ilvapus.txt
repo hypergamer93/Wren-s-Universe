@@ -1,0 +1,7 @@
+Name: Ilvapus
+Type of system: Mono-star
+Star/s: Ipo
+Number of planets: 13
+Number of sentient races: 1
+Description: Home of the Lurzii. All of the planets in this system have been terraformed to sustain life. The star, Ipo has had a dyson sphere constructed around it, so that the Lurzii can exploit the energy from it to help with their expansion across the galaxy
+- Wren

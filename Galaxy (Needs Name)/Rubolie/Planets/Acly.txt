@@ -1,0 +1,6 @@
+Name: Acly
+Star system: Rubolie
+Planet type: super-earth, mini Neptune
+Radius: 12311 km
+Description: Acly is the last planet from its star, and is very massive compared to the other planets. Being the only body in the outer solar system, and having a large gravity, it steadily grew as it absorbed gasses from other proto planets and became a mini-Neptune. It has frozen poles with lots of ice, a extremely dense atmosphere, and 2 moons. Groaloga have many bases on this planet, but the population living on it is lesser than the amount of Groaloga living on its moons and satellites orbiting it. It is a major hub for exiting the Rubolie system due to its high quantity of water in the form of ice, and other necessary materials
+- Radar

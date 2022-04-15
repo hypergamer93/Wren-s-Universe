@@ -1,0 +1,6 @@
+Name: Ruig
+Star system: Rubolie
+Planet type: silicate, hydrosphere, terrestrial
+Radius: 5725 km
+Description: Ruig is a warm, silicon based planet which is third from Orbos. It’s landscapes are dominated by sulfur-releasing rainforests and sprawling, dry deserts. The animals on this planet use sulfur instead of oxygen to respirate, having gone through a Great Dying of its own when it was figured out how to produce sulfur dioxide out of the sulfur rich soil and water. As a byproduct of this, Ruig also has a layer of Hydrogen in its atmosphere that many air based life forms use to float. Today, the planet is partially dominated by Groaloga cities which include lots of nature as to not disturb the environment.
+- Radar

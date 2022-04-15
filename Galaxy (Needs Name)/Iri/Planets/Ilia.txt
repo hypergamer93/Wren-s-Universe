@@ -1,0 +1,6 @@
+Name: Ilia
+Star system: Iri 
+Planet type: Super-Earth 
+Radius: 10,000 km
+Description: Ilia is a quiet and cold planet entirely covered in glaciers and oceans of water. It has a thin oxygen atmosphere and its own magnetic field in addition to Izzy's protection. Life exists mainly in its depths, but it is on the surface, on one of the continent-sized glaciers, that sentience evolved. Iliasi built their civilization out of ice and packed seaweed. Only recently they started extracting metals from rare vulcanos and mountains petruding through the glaciers, but they are crafty. Their space age is about to begin.
+- LordGazeta
