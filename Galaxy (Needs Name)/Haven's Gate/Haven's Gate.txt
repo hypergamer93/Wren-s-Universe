@@ -1,0 +1,8 @@
+Name: Haven's Gate
+Type of System: Mono-star
+Star/s: Celestial
+Number of Planets: 3
+Number of Sentient species: 7
+
+Note: Contains a ringworld
+- LordGazeta

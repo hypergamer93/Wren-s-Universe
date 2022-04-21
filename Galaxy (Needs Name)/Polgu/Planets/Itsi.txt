@@ -1,0 +1,6 @@
+Name: Itsi
+Star system: Polgu
+Planet type: Hot Jupiter
+Radius: 54,110 km
+Description: Itsi, to anyone looking upon it from the terrestrial worlds, is brighter than most stars, but of course it is a planet orbiting Polat. The planet, through its history, has lost and continues to lose mass to Polat due to orbiting at a close proximity. Luckily, it will still be around for billions of years.
+- Radar

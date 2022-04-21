@@ -1,0 +1,7 @@
+Name: Druim
+Home planet, star system: Olsium, Polgu
+Number of planets occupied: 1
+Native language/s: approximately 150
+Population: 212 million
+Description: Druim are massive organisms which are supported by a hydrostatic skeleton which is specialized to use a dense water-based liquid instead of purely water. Being such, they have no bones. Druim struggle in dexterity and making fine materials, coupling that with being so large means that they are bound on their planet as of now. Though more advanced than humans at a similar reference point, Druim are still medieval, and have been for some time, but do sport more complex clockwork-like machines which run by twisting a main lever, and once it’s wound up, releasing it.
+- Radar

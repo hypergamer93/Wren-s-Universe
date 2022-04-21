@@ -1,0 +1,6 @@
+Name: Iki
+Star system: Iri
+Planet type: Dwarf Planet, Binary
+Radius: 690 km
+Description: Iki is a part of a pair of planets of almost equal masses orbiting around eachother. The other part of the pair is the dwarf planet Ibisi. Iki is a small white globe with large quartz formations spread all across the surface, supporting no atmosphere. Ibisi and Iki maintain a distance of about 8,000-10,000 km from each other.
+- LordGazeta

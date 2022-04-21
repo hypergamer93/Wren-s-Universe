@@ -1,0 +1,6 @@
+Name: Deseron
+Star system: Recieth
+Planet type: terrestrial
+Radius: 8,342 km
+Description: The home planet of the Syniliv, it is mostly covered in water and the few pieces of land have been mostly urbanised. To combat their unfortunate lack of land, the syniliv have begun massive terraforming operations to lower sea levels on their planet.
+- IAmFlying

@@ -1,0 +1,6 @@
+Name: Girvi
+Star system: Iri
+Planet Type: Terrestrial
+Radius: 9,563
+Description: The soil here is rich in nitrates, therefore this perfect for farming. Flora here can grow hundreds of metres tall, and would be able to provide natural resources to many planets. However, there are frequent storms here, which would make it quite difficult to farm this planet
+- Wren

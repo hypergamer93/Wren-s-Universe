@@ -1,0 +1,6 @@
+Name: Milai
+Star system: Iri
+Planet type: Protoplanet
+Radius: ~3000 km
+Description: Milai is a not a protoplanet in the strictest sense of the word. It used to be a terrestrial planet of roughly twice the size it is now, however 60,000 standard galactic years ago the passage of the planet Izzy almost ripped Milai in half, exposing its liquid mantle. Now it is almost entirely covered in oceans of lava, ash clouds cover the sun and air is unbreathable. Yet there is still life hiding in the ash clouds, mostly microbial, but small gliding bird-like organizms and leaf-like algae colonies also somehow survived the catastrophe.  A small ring of rocks and ice, borrowed from the passing Izzy surrounds the grey globe.
+- LordGazeta

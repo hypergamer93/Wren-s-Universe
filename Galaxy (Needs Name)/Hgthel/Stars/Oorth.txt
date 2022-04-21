@@ -1,0 +1,7 @@
+Name: Oorth 
+Spectral type: Stellar Black Hole - previously red giant type M (red-orange) 
+Temperature: 6 x 10^-8 K
+Radius: 30 km
+
+Note: Has the Oorth-thuth megastructure constructed around it
+- LordGazeta

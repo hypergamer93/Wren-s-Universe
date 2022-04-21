@@ -1,0 +1,6 @@
+Name: Polgu
+Type of system: Binary
+Star/s: Polat, Gu
+Number of planets: 3
+Number of sentient races: 1
+-Radar

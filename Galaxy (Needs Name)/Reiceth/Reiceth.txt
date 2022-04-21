@@ -1,0 +1,6 @@
+Name: Reiceth
+Type: Mono-star
+Star/s: Vagnov
+Number of planets: 5 (All 5 are terrestrial planets and mostly low in resources)
+Number of sentient races: 1
+-IAmFlying

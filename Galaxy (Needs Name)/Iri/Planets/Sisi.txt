@@ -1,0 +1,6 @@
+Name: Sisi
+Star system: Iri
+Planet type: Terrestrial
+Radius: 7,140 km
+Description: The planet is hot and rich in carbon, it also has a thick atmosphere mostly consisting of nitrogen. Small seas of tar and oil litter the surface and the land is full of coal deposits and mountain-sized growths of grayish-brown to golden-yellow diamonds. The skies are pale purple-blue. There is a merged Iliasi-Sind mining and research outpost on this planet, transporting large amounts of pure diamonds and data to the home planets of both species.
+- LordGazeta

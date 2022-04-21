@@ -1,0 +1,7 @@
+Name: Ipo
+Spectral Type: B (blue-white)
+Temperature: 13,000 K
+Radius: 3.4 R
+
+Note: Has a dyson sphere constructed around it
+- Wren

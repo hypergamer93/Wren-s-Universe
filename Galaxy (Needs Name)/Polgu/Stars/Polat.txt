@@ -1,0 +1,6 @@
+Name: Polat
+Spectral type: B (blue)
+Temperature: 19,000 K
+Radius: 4.3 R
+Note: planets except Itsi orbit Gu, which orbits Polat
+- Radar

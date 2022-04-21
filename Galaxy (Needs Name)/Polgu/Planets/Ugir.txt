@@ -1,0 +1,6 @@
+Name: Ugir
+Star system: Polgu
+Planet type: Superearth, snowball
+Radius: 16,138 km
+Description: Ugir orbits approximately 1.2 AU away from Gu, but because Gu is a red dwarf, this means that Ugir is completely frozen. Otherwise, Ugir is a superearth completely covered by ice, but has oceans of liquid water around 2 km under said ice, which is heated from the planets massive and hot core. Bacteria and monocellular organisms thrive around hydrothermal vents.
+- Radar

@@ -1,0 +1,6 @@
+Name: Olsium
+Star system: Polgu
+Planet type: dense atmosphere, terrestrial
+Radius: 3140 km
+Description: Olsium is a low gravity, high density atmosphere planet orbiting around the star Gu. It is the only planet in the system to contain complex life, including the sentient Druims. The planet is very moist, and most terrestrial animals rely on water to reproduce. Olsium also hosts one of the widest variety of viri and pathogenic bacteria in the Galaxy, which are in an arms race with the animals of Olsium.
+- Radar

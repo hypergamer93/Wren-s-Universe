@@ -1,0 +1,8 @@
+Name: Ilimi
+Star system: Iri
+Planet type: Dwarf Planet 
+Radius: 1,200 km
+Description: Ilimi is a small astronomical body located in the outer parts of the system, away from the star, made out of roughly 40% gold, 20% platinum and 3% iridium. Presence of those elements is visible from space, as they form large patches of pure ore around the planet's eauator. 
+
+As of 62, 374 both species in the system have yet to sent large mining operations to the planet, but it has already been mapped by unmanned satelites.
+-LordGazeta

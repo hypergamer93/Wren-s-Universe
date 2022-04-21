@@ -1,2 +1,10 @@
-SY-62,374 - Earth/Humans Wormhole
-SY-62,375 - Virathasium/Gikik First Contact
+SY-62,251 - Kickiers (Groalogan Gikik).
+SY-62,374 - Earth/Humans Wormhole.
+SY-62,375 - Virathasium/Gikik First Contact.
+SY-62,378 - Humans develop short-range one-way communication with each other.
+		Humans develop short-range video communication with each other.
+SY-62,380 - Europe, Earth, creates first Human neocommunication satellite.
+		Humans have developed global communication, and discovered new planets in the night sky.
+		Virathasium probe scouts out the Alpha System.
+SY-62,381 - Cateax discover inteligent life on Te'thiriskl (Earth).
+SY-62,386 - Cateax-Syniliv-Human treaty of 62,386 is formed.

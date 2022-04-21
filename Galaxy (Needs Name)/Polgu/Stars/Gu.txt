@@ -1,0 +1,5 @@
+Name: Gu
+Spectral type: M (red)
+Temperature: 3000 K
+Radius: 0.43 R
+- Radar

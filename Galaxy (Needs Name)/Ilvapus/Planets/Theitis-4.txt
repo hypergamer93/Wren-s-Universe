@@ -1,0 +1,6 @@
+Name: Theitis-4
+Star system: Ilvapus
+Planet Type: City planet
+Radius: 2,350 km
+Description: This small planet, has had an entire city constructed on it by the Lurzii. The architecture on it is similar to that of the Lurzii home world, Theitis-1. Theitis-4 is a common recreational location.
+- Wren

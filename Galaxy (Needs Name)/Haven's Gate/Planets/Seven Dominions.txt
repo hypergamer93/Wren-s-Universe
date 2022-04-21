@@ -1,0 +1,6 @@
+Name: Seven Dominions
+Star system: Haven's Gate 
+Planet type: Ringworld
+Radius: 60,000,000 km
+Description: The ring rotates around the star genating spin gravity and the day-night cycle is achieved thanks to large mirrors in the star's orbit blocking out the light for exactly half a day every day. A territory of enormous scale has been particioned into 7 equal sections, divided among the 7 inteligent species of the ring. It's been built only about 60,000 years ago. It's currently unknown how and why animals, plants and races from very different planets found themselves on it.
+- LordGazeta
